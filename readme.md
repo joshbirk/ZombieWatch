@@ -5,9 +5,7 @@ This is an intentionally whimsical IoT demonstration involving a USB web camera,
 
 It also uses the [CamFind API](http://cloudsightapi.com/api) and, of course, [Salesforce](http://developer.salesforce.com).
 
-Here is a video:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pJu7X0wOHSQ" frameborder="0" allowfullscreen></iframe>
+[Here is a video of it in action.](https://www.youtube.com/watch?v=pJu7X0wOHSQ)
 
 What you are seeing is:
 
